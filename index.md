@@ -17,7 +17,7 @@ After 100+ installs with 3D Fab Light, I made the decision to close the company 
 
 ## What Drives Me
 
-I'm genuinely passionate about building technology that puts power in people's hands. Throughout my career, I've focused on creating tools that transform users into makers and creators - not just consumers of technology. This probably stems from my years of involvement in STEM education, where I've seen eyes light up when people realize they can actually build the things they imagine. ✨
+I'm genuinely passionate about building technology that puts power in people's hands. Throughout my career, I've focused on creating tools that transform people into makers and creators - not just consumers of technology. This probably comes from my years of involvement in STEM education, where I've seen eyes light up when people realize they can actually build the things they imagine. ✨
 
 I bring both depth and breadth to my work, with strong technical foundations that branch into diverse areas including:
 - Product Development & Strategy
