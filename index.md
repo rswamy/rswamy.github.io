@@ -5,7 +5,7 @@ title: ""
 
 # Hello! I'm Ramya 👋
 
-I'm an engineer who gradually expanded from 'how things work' to 'why we build them,' leading me to product strategy. Over the years, I've found my sweet spot at the intersection of hardware and software, where I get to solve complex technical challenges while keeping real people at the heart of every solution.
+I'm an engineer who gradually expanded from 'how things work' to 'why we build them,' leading me to product strategy. Over the years, I've found my sweet spot solving complex technical challenges while keeping real people at the heart of every solution - most recently, I've spent time working at the intersection of hardware and software.
 
 [Download Resume](assets/resume/Resume 2025 - Ramya Swamy.pdf){: .download-button}
 
@@ -19,7 +19,7 @@ After 100+ installs with 3D Fab Light, I made the decision to close the company 
 
 I'm genuinely passionate about building technology that puts power in people's hands. Throughout my career, I've focused on creating tools that transform people into makers and creators - not just consumers of technology. This probably comes from my years of involvement in STEM education, where I've seen eyes light up when people realize they can actually build the things they imagine. ✨
 
-I bring both depth and breadth to my work, with strong technical foundations that branch into diverse areas including:
+I bring both depth and breadth to my work as a lifelong learner. Starting with my technical roots, I've grown into all sorts of interesting areas including:
 - Product Development & Strategy
 - Team Leadership
 - Hardware-Software Integration
