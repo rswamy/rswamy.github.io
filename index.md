@@ -3,42 +3,104 @@ layout: default
 title: ""
 ---
 
-# Hello! I'm Ramya 👋
+# 👋 Hello! I'm Ramya
 
-I'm an engineer who gradually expanded from 'how things work' to 'why we build them,' leading me to product strategy. Over the years, I've found my sweet spot solving complex technical challenges while keeping real people at the heart of every solution - most recently, I've spent time working at the intersection of hardware and software.
+I'm a product builder who loves working at the intersection of hardware, software, and AI. Over the past decade, I've evolved from building physical products to managing complex hardware-software systems, and most recently into AI-powered software development.
 
-[Download Resume](assets/resume/Resume 2025 - Ramya Swamy.pdf){: .download-button}
+I'm driven by creating tools that amplify what people can do - whether that's a laser cutter that turns students into makers, or software that transforms a 3-day task into 3 minutes.
 
-## My Story
+[📎 Download Resume](assets/resume/Resume 2025 - Ramya Swamy.pdf){: .download-button}
 
-The last decade has been quite the adventure! I've co-founded two companies that blend hardware and software (because why choose just one?). Most recently, I led 3D Fab Light, where we worked to make metal laser cutting technology more accessible to creators, students, and businesses.
+**Quick Navigation:** [My Story](#my-story) • [Current Work](#current-work) • [Where I'm At Now](#where-im-at-now) • [What Drives Me](#what-drives-me) • [Beyond Work](#beyond-work) • [Let's Chat](#lets-chat) • [Skills & Technologies](#skills)
 
-After 100+ installs with 3D Fab Light, I made the decision to close the company in 2024. This transition has given me time to reflect and get excited about what's next.
 
-## What Drives Me
+---
 
-I'm genuinely passionate about building technology that puts power in people's hands. Throughout my career, I've focused on creating tools that transform people into makers and creators - not just consumers of technology. This probably comes from my years of involvement in STEM education, where I've seen eyes light up when people realize they can actually build the things they imagine. ✨
+## 📖 My Story {#my-story}
 
-I bring both depth and breadth to my work as a lifelong learner. Starting with my technical roots, I've grown into all sorts of interesting areas including:
-- Product Development & Strategy
-- Team Leadership
-- Hardware-Software Integration
-- Human-Centered Design
-- Educational Technology
+The last decade has been quite the adventure! I co-founded and helped scale 3D Fab Light from concept to $5M in revenue with 100+ installations. As VP and Technical Product Manager, I wore many hats - from developing our IoT platform with Node.js to leading a cross-functional team of 10, to managing relationships with Fortune 500 customers like Amazon, Disney, and Ford.
 
-## Where I'm at now
+The hardware journey taught me invaluable lessons about bringing complex physical-digital products to market. Throughout my time there, I found myself gravitating toward the software side - the CAM software, the HMI platform, all the digital tools that made complex hardware accessible to more people. When I closed the company in 2024, I was ready to dive deeper into software.
 
-I'm looking for my next challenge! While I've spent years in manufacturing technology, I'm excited to apply my experience to new problems.
+---
 
-## Beyond Work
+## 💼 Current Work {#current-work}
 
-When I'm not at my laptop, you might find me:
+Today, I'm an Engineering Consultant at SupplyTrust, building FedRAMP-compliant AI software solutions. I develop tools that dramatically reduce time-intensive workflows. The same drive that led me to make laser cutting accessible applies just as well to software: take powerful technology and make it *actually usable* for people doing real work. I'm gaining experience with deployment pipelines, cloud infrastructure, and what it takes to build useful AI applications.
 
-- Biking around town 🚲
-- Helping Bay Area folks discover hidden stories of their local watersheds with [Wholly H2O](https://whollyh2o.org/)
-- Tending to my expanding native plant garden
-- Working on various hands-on craft projects that keep my maker spirit alive and well
+---
 
-## Let's Chat
+## 🚀 Where I'm At Now {#where-im-at-now}
+
+I'm looking for my next challenge! I'm particularly excited about roles where I can:
+- Build AI-powered tools that solve real problems (not just "nice-to-haves")
+- Continue growing my software and AI expertise while leveraging my hardware background
+- Work at the intersection of technical depth and customer impact
+- Contribute to products that empower people - whether that's through education, creativity, or productivity
+
+I'm exploring opportunities in product management, technical solutions roles, and positions that blend strategy with hands-on technical work.
+
+While I've spent years in manufacturing technology, I'm energized by applying my experience to new domains - especially educational technology, AI/ML products, and tools that help people create.
+
+---
+
+## 🎯 What Drives Me {#what-drives-me}
+
+I'm passionate about building technology that amplifies human capability. Throughout my career, I've focused on creating tools that transform people from passive consumers into active makers and creators. This probably comes from my deep roots in STEM education - I grew up in my parents' STEM education business and have personally taught programming to 500+ K-12 students. It's magical to see someone realize they can actually build the thing they're imagining. ✨
+
+I bring both depth and breadth to my work as a lifelong learner:
+
+### 💻 Technical Foundation
+- Full-stack product development (hardware + software + AI)
+- IoT systems architecture and deployment
+- AI/ML implementation (exploring RAG systems, LLM integration, FedRAMP compliance)
+- Software product management and development (Node.js, JavaScript, Python)
+
+### 🎯 Strategic & Leadership
+- Product strategy and roadmap development
+- Cross-functional team leadership
+- Customer discovery and human-centered design
+- Go-to-market strategy and P&L management
+
+### 🔧 Domain Expertise
+- Manufacturing technology and advanced fabrication
+- Educational technology and maker education
+- Hardware-software integration
+
+---
+
+### 🤖 On AI & Technology
+
+I have complicated feelings about AI - and I think that's healthy. AI has serious ethical issues: training data practices, artist compensation, environmental impact. But I also believe we can hold two truths simultaneously:
+
+1. AI has real ethical challenges we need to address as an industry
+2. AI tools can genuinely help people in their work and lives
+
+I'm still developing my viewpoint as the industry evolves, but I'm interested in building AI applications that amplify human capability rather than replace it.
+
+---
+
+## 🌱 Beyond Work {#beyond-work}
+
+When I'm not building things, you might find me:
+
+- 🚲 Biking around town
+- 💧 Helping neighbors discover hidden stories in our local waterways with [Wholly H2O](https://whollyh2o.org/)
+- 🌿 Tending to my expanding CA native plant garden
+- ✂️ Working on hands-on craft projects that keep my maker spirit alive and well
+
+---
+
+## 💬 Let's Chat {#lets-chat}
 
 You can reach me at my first name at alum.mit.edu.
+
+---
+
+### 🛠️ Skills & Technologies {#skills}
+
+**Product & Leadership:** Product Management • Roadmap Development • GTM Strategy • P&L • Cross-functional Leadership • User Research • Technical Writing • Public Speaking
+
+**Technical Development:** Node.js • JavaScript • Python • APIs • Google Cloud • Vertex AI • Gemini API • FedRAMP Compliance • CAM Software • Manufacturing Processes
+
+**Design & Documentation Tools:** Adobe Illustrator • Premiere Pro • Canva • Jira • Asana • Notion
