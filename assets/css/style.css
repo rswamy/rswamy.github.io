@@ -1,5 +1,141 @@
 hr {
-  margin: 30px 0;
+  margin: 2rem 0;
   border: none;
   border-top: 1px solid #e0e0e0;
+}
+
+.download-button {
+  display: inline-block;
+  margin-top: 0.4rem;
+  padding: 0.4rem 1rem;
+  background: #2a7ae2;
+  color: #fff !important;
+  border-radius: 4px;
+  font-size: 0.88rem;
+  font-weight: 500;
+  text-decoration: none !important;
+}
+.download-button:hover { opacity: 0.88; }
+
+/* ── Portfolio page ── */
+
+.portfolio-intro {
+  margin-bottom: 2.5rem;
+}
+.portfolio-eyebrow {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #2a7ae2;
+  margin-bottom: 0.4rem;
+}
+
+.case {
+  border-top: 3px solid #111;
+  padding-top: 2rem;
+  margin-bottom: 4rem;
+}
+.case-meta {
+  font-size: 0.8rem;
+  color: #828282;
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+.case-number { font-variant-numeric: tabular-nums; }
+.case-company { color: #2a7ae2; font-weight: 600; }
+.case-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+.tag {
+  background: #f1f5f9;
+  color: #334155;
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+}
+
+.case h2 { margin-top: 0.5rem; margin-bottom: 0.3rem; }
+.case-subtitle {
+  font-style: italic;
+  color: #828282;
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Case body table */
+table.case-body {
+  border: none;
+  margin-bottom: 0;
+}
+table.case-body tr { background: none !important; }
+table.case-body th {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #e8e8e8;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #828282;
+  padding: 0.9rem 1.2rem 0.9rem 0;
+  width: 130px;
+  vertical-align: top;
+  white-space: nowrap;
+}
+table.case-body td {
+  border: none;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 0.9rem 0 0.9rem 0;
+  vertical-align: top;
+  color: #444;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+table.case-body tr:last-child th,
+table.case-body tr:last-child td { border-bottom: none; }
+
+/* Impact bar */
+.impact {
+  background: #eff6ff;
+  border-left: 3px solid #2a7ae2;
+  padding: 1rem 1.2rem;
+  border-radius: 0 4px 4px 0;
+  margin-top: 1.5rem;
+}
+.impact-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #2a7ae2;
+  margin-bottom: 0.5rem;
+}
+.impact-stats {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.stat-num {
+  font-size: 1.8rem;
+  font-weight: 300;
+  color: #2a7ae2;
+  line-height: 1;
+}
+.stat-label {
+  font-size: 0.8rem;
+  color: #828282;
+  margin-top: 0.2rem;
+}
+
+@media (max-width: 600px) {
+  table.case-body,
+  table.case-body tbody,
+  table.case-body tr,
+  table.case-body th,
+  table.case-body td { display: block; width: 100%; }
+  table.case-body th { border-bottom: none; padding-bottom: 0.2rem; white-space: normal; }
+  table.case-body td { padding-top: 0.2rem; }
+  .impact-stats { gap: 1.2rem; }
 }

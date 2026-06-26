@@ -1,0 +1,170 @@
+---
+layout: default
+title: Portfolio
+permalink: /portfolio/
+---
+
+<div class="portfolio-intro">
+  <p class="portfolio-eyebrow">PM Portfolio</p>
+  <h1>Problems I've defined & products I've shipped.</h1>
+  <p>From laser cutters to LLMs, I ship products that make hard things simple.</p>
+</div>
+
+<!-- CASE 1: SUPPLYTRUST -->
+<div class="case">
+  <div class="case-meta">
+    <span class="case-number">01</span>
+    <span class="case-company">SupplyTrust · 2025</span>
+    <div class="case-tags">
+      <span class="tag">Customer Discovery</span>
+      <span class="tag">Problem Definition</span>
+      <span class="tag">Adoption</span>
+    </div>
+  </div>
+  <h2>AI Workflow Tools for Supply Chain Analysts</h2>
+  <p class="case-subtitle">Turning a day of manual research into a 3-minute workflow.</p>
+
+  <table class="case-body">
+    <tbody>
+      <tr>
+        <th>The Problem</th>
+        <td>When I joined SupplyTrust as a contract analyst, I needed to get up to speed on a large corpus of supplier information quickly in order to run assessments. The process was painful: analysts spent up to a full day manually searching through notes, past visit reports, and documents to surface relevant insights. There was no good way to connect information across years of supplier history.</td>
+      </tr>
+      <tr>
+        <th>My Role</th>
+        <td>I built AI workflows to solve my own problem first, then presented them to leadership. They saw the broader opportunity and I took ownership: defining requirements, building the backend, and shipping a Google Docs extension so any analyst could use the tools without technical expertise.</td>
+      </tr>
+      <tr>
+        <th>How I Built It</th>
+        <td>I used Vertex AI and Gemini API to build document processing tools and a RAG-based knowledge system that resurfaces insights across SupplyTrust's supplier database. I ran evaluation frameworks and iterative feedback sessions with analysts to validate and improve reliability.</td>
+      </tr>
+      <tr>
+        <th>Driving Adoption</th>
+        <td>By packaging everything as a Google Docs extension, I met analysts in the tool they already used. The real adoption signal: when the tool broke, analysts messaged me to fix it rather than reverting to manual work.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="impact">
+    <div class="impact-label">Impact</div>
+    <div class="impact-stats">
+      <div>
+        <div class="stat-num">98%</div>
+        <div class="stat-label">Reduction in research workflow time</div>
+      </div>
+    </div>
+  </div>
+
+  <blockquote>
+    <p>"This reduced a full day of work into just a couple of minutes with the push of a button."</p>
+    <footer>— SupplyTrust analyst</footer>
+  </blockquote>
+</div>
+
+<!-- CASE 2: FABLITE CAM -->
+<div class="case">
+  <div class="case-meta">
+    <span class="case-number">02</span>
+    <span class="case-company">3D Fab Light · 2016–2024</span>
+    <div class="case-tags">
+      <span class="tag">Roadmap Management</span>
+      <span class="tag">Requirements &amp; Specs</span>
+      <span class="tag">Stakeholder Alignment</span>
+    </div>
+  </div>
+  <h2>Advanced Manufacturing Software -  No Training Required</h2>
+  <p class="case-subtitle">Made a $110K machine as easy to use as an office printer.</p>
+
+  <table class="case-body">
+    <tbody>
+      <tr>
+        <th>The Problem</th>
+        <td>Competing laser cutters required a week of on-site training on top of machine cost - and created a dangerous single point of failure. If the one trained operator called in sick, a $110K machine sat idle. I set out to make our CAM and HMI software so intuitive that any operator could use it from day one.</td>
+      </tr>
+      <tr>
+        <th>My Role</th>
+        <td>I owned the full product lifecycle for both our CAM software and the machine HMI—from user research through spec writing, contractor management, sprint execution, and user testing. I was the connective tissue between what customers needed and what got built.</td>
+      </tr>
+      <tr>
+        <th>How I Built It</th>
+        <td>I visited 20+ manufacturing facilities to observe operators in real conditions. I tracked feature requests via Freshdesk and Trello, wrote detailed specs for software contractors, and managed weekly sprints with internal user testing before every release.</td>
+      </tr>
+      <tr>
+        <th>Roadmap Process</th>
+        <td>Every feature request cleared three filters: Does this affect our ability to close or retain a customer? Does it reduce field failure rate? Does it unblock the team? I kept the backlog visible so stakeholders always understood the prioritization reasoning.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="impact">
+    <div class="impact-label">Impact</div>
+    <div class="impact-stats">
+      <div>
+        <div class="stat-num">30 min</div>
+        <div class="stat-label">To full operation, vs. a week for competing machines</div>
+      </div>
+      <div>
+        <div class="stat-num">Any operator</div>
+        <div class="stat-label">No dedicated training or certified specialist required</div>
+      </div>
+      <div>
+        <div class="stat-num">500+</div>
+        <div class="stat-label">Active users across OEMs, job shops &amp; universities</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- CASE 3: IOT PLATFORM -->
+<div class="case">
+  <div class="case-meta">
+    <span class="case-number">03</span>
+    <span class="case-company">3D Fab Light · 2018–2020</span>
+    <div class="case-tags">
+      <span class="tag">0-to-1 Product Thinking</span>
+      <span class="tag">Technical Scoping</span>
+      <span class="tag">Alpha Launch</span>
+    </div>
+  </div>
+  <h2>IoT Platform for Connected Machine Management</h2>
+  <p class="case-subtitle">From manual service calls to real-time machine visibility.</p>
+
+  <table class="case-body">
+    <tbody>
+      <tr>
+        <th>The Problem</th>
+        <td>Every remote service call required customers to download TeamViewer, find an Ethernet cable, and connect a laptop to the machine. The process was slow, frustrating, and unreliable, and there was no way to proactively monitor machine health in the field.</td>
+      </tr>
+      <tr>
+        <th>My Role</th>
+        <td>I identified the problem with my co-founder and owned product definition: what the platform needed to do, what secure remote access should look like, and what zero-setup meant for the customer. I scoped the work, engaged a contractor, and managed through to alpha launch.</td>
+      </tr>
+      <tr>
+        <th>How I Built It</th>
+        <td>Working with a contractor, I defined requirements for a custom Node.js IoT platform that put machines online securely - enabling remote diagnostics with no customer setup burden and wireless job transmission from any networked computer.</td>
+      </tr>
+      <tr>
+        <th>Launch &amp; Learning</th>
+        <td>We launched to a select alpha group to validate core capabilities. Remote servicing became dramatically faster, and post-launch telemetry gave us real-time visibility into machine health - error codes, temperatures, operating hours - for the first time.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="impact">
+    <div class="impact-label">Impact</div>
+    <div class="impact-stats">
+      <div>
+        <div class="stat-num">0</div>
+        <div class="stat-label">Customer setup steps for remote servicing</div>
+      </div>
+      <div>
+        <div class="stat-num">Real-time</div>
+        <div class="stat-label">Machine telemetry across deployed fleet</div>
+      </div>
+      <div>
+        <div class="stat-num">Alpha launch</div>
+        <div class="stat-label">Validated with select enterprise customers</div>
+      </div>
+    </div>
+  </div>
+</div>

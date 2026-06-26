@@ -9,7 +9,7 @@ I'm a product builder who loves working at the intersection of hardware, softwar
 
 I'm driven by creating tools that amplify what people can do - whether that's a laser cutter that turns students into makers, or software that transforms a 3-day task into 3 minutes.
 
-[📎 Download Resume](assets/resume/Resume 2025 - Ramya Swamy.pdf){: .download-button}
+[📎 Download Resume](assets/resume/Resume 2025 - Ramya Swamy.pdf){: .download-button} &nbsp; [📋 PM Portfolio](/portfolio/){: .download-button}
 
 **Quick Navigation:** [My Story](#my-story) • [Current Work](#current-work) • [Where I'm At Now](#where-im-at-now) • [What Drives Me](#what-drives-me) • [Beyond Work](#beyond-work) • [Let's Chat](#lets-chat) • [Skills & Technologies](#skills)
 
